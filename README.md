@@ -1,4 +1,4 @@
-### Hello there 🙌
+### 🇨🇷 Hi 🙌 here is @Samw662
 ## My real name is Samir but you can call me Sam! 😃
 
 • 😶‍🌫️ I'm a small Android developer, I've been working on TWRP for some Motorola phones with the "holi" platform!
