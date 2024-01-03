@@ -7,3 +7,4 @@
 • 📖 I'm currently studying!
 • 🌟 I've been learning languages ​throughout my life, I know how to speak spanish, english and portuguese. A little bit french tho.
 • 💬 You can ask me about anything, I will help you if it is in my capacity. 
+• 😁 I love to help people 
