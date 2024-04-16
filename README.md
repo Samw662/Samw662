@@ -1,5 +1,5 @@
 ### 🇨🇷 Hi 🍃 here is @Samw662
-## My real name is Samir but you can call me Sam! 😃
+### My real name is Samir but you can call me Sam! 😃
 #AlwaysKeepLearning
 #KeepWeary
 
@@ -22,12 +22,12 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Samw662&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samw662&langs_count=8&theme=blue-green">
 
-## :smiling_face_with_three_hearts: Support me
+### :smiling_face_with_three_hearts: Support me
 
 I try to reply to everyone. Me love helping people
 You can use any of my tools or projects for free. If you need help or want to develop with me, contact me. 😁
 
-## 
+###
 
 - Mi appreciate dat! :jamaica::heart:
 - Thank you! :us::heart:
@@ -37,3 +37,8 @@ You can use any of my tools or projects for free. If you need help or want to de
 
 [gmail]: https://amadorsamir307@gmail.com
 [telegram]: https://t.me/samw662
+
+### 💻 Environment
+![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-Mint%2000BBFF?style=flat-square&logo=Linux&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
