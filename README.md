@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning everything 😂🙈
 - 🌟 I've been learning languages ​throughout my life. You can talk to me in spanish, english, portuguese and a bit of french. 😃
 - 💬 You can ask me things related to Android! I'll help you whenever I can
-- 🍃 I love listening to reggae music
-
 
 
 ### Connect with me:
@@ -24,12 +22,11 @@
 
 ### :smiling_face_with_three_hearts: Support me
 
-I try to reply to everyone. Me love helping people
+I try to reply to everyone. I love helping people
 You can use any of my tools or projects for free. If you need help or want to develop with me, contact me. 😁
 
 ###
 
-- Mi appreciate dat! :jamaica::heart:
 - Thank you! :us::heart:
 - Gracias! :costa_rica::heart:
 
