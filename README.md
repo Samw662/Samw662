@@ -1,4 +1,4 @@
-### 🇨🇷 Hi 🍃 here is @Samw662
+### 🇨🇷 Hi here is @Samw662
 ### My real name is Samir but you can call me Sam! 😃
 #AlwaysKeepLearning
 #KeepWeary
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 😂🙈
 - 🌟 I've been learning languages ​throughout my life. You can talk to me in spanish, english, portuguese and a bit of french. 😃
 - 💬 You can ask me things related to Android! I'll help you whenever I can
-
+- 🤷 I'm too young man
 
 ### Connect with me:
 
@@ -16,8 +16,6 @@
 <br />
 <br />
 
-
-<img src = "https://github-readme-stats.vercel.app/api?username=Samw662&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samw662&langs_count=8&theme=blue-green">
 
 ### :smiling_face_with_three_hearts: Support me
