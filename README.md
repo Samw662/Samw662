@@ -3,10 +3,9 @@
 #AlwaysKeepLearning
 #KeepWeary
 
-- 🌱 I’m currently learning everything 😂🙈
-- 🌟 I've been learning languages ​throughout my life. You can talk to me in spanish, english, portuguese and a bit of french. 😃
-- 💬 You can ask me things related to Android! I'll help you whenever I can
-- 🤷 I'm too young man
+Sometimes life ain't the way it seems to be.
+
+I always loved how plenty stuff works in Android and that's why I'm interesed on it years ago. Anyway everyday we pass through is a new lesson we'll consider in the soon future, I'm not that good at all but I try to be extra paranoid with anything I do if it's related with modifying stuff.
 
 ### Connect with me:
 
@@ -20,8 +19,7 @@
 
 ### :smiling_face_with_three_hearts: Support me
 
-I try to reply to everyone. I love helping people
-You can use any of my tools or projects for free. If you need help or want to develop with me, contact me. 😁
+If you consider me or if you need to contact me so go ahead, I'm always available and will be enchanted of helping you. 
 
 ###
 
