@@ -3,8 +3,9 @@
 #AlwaysKeepLearning
 #KeepWeary
 
-Sometimes life ain't the way it seems to be.
+*Android bricker && Essential Kernel hacker*
 
+Sometimes life ain't the way it seems to be.
 I always loved how plenty stuff works in Android and that's why I'm interesed on it years ago. Anyway everyday we pass through is a new lesson we'll consider in the soon future, I'm not that good at all but I try to be extra paranoid with anything I do if it's related with modifying stuff.
 
 ### Connect with me:
